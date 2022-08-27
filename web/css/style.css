@@ -35,7 +35,7 @@ body a:hover,body a:focus{
 } 
 /*-- banner --*/ 
 .agileits-banner { 
-    background:url(../images/bg.jpg)no-repeat center 0px; 
+    background:url(../images/photoMain.jpg)no-repeat center 0px; 
 	-webkit-background-size:cover;
     -moz-background-size:cover;
   	-o-background-size:cover;  
@@ -427,7 +427,7 @@ h4.agiletext-style:first-letter {
 .subscribe { 
 	background: #333;
 	text-align:center;
-	background: url(../images/bg1.jpg)no-repeat center bottom fixed;
+	background: url(../images/photoBahranyi.jpg)no-repeat center bottom fixed;
 	background-size:cover;
 }
 .agileits-title.title2 h3 {
